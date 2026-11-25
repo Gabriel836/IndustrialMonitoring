@@ -1,6 +1,6 @@
 # IndustrialMonitoring
-Autores:
-Gabriel Dezejácomo Maruschi
+Autores:\
+Gabriel Dezejácomo Maruschi\
 Matheus Cavalcanti de Santana
 # Sistema Embarcado de Monitoramento e Supervisão Industrial
 
