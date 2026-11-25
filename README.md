@@ -4,8 +4,8 @@ Gabriel Dezejácomo Maruschi\
 Matheus Cavalcanti de Santana
 # Sistema Embarcado de Monitoramento e Supervisão Industrial
 
-**SEL0630 — Projetos em Sistemas Embarcados | Projeto Final — Parte 3**
-Professor:  Pedro Oliveira
+**SEL0630 — Projetos em Sistemas Embarcados | Projeto Final — Parte 3**\
+Professor:  Pedro Oliveira\
 
 ## 1. Descrição do projeto
 
