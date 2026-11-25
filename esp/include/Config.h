@@ -4,8 +4,8 @@
 // Projeto para ESP32 DevKit / ESP32-WROOM-32 (nao ESP32-C3/S3).
 namespace Config {
 // NUNCA publique a senha real do Wi-Fi em um repositorio publico.
-constexpr const char* WIFI_SSID = "DANONET_2G";
-constexpr const char* WIFI_SENHA = "Gbk62799!";
+constexpr const char* WIFI_SSID = "INSIRA_SSID";
+constexpr const char* WIFI_SENHA = "INSIRA_SENHA";
 constexpr uint8_t IP_RPI[4] = {192, 168, 0, 30};
 constexpr uint16_t PORTA_TCP = 5000;
 
