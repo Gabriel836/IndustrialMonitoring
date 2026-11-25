@@ -1,0 +1,12 @@
+# TCP Server - Raspberry Pi
+#
+# Python standard library only.
+# No external packages required.
+#
+# Modules used:
+# - socket: TCP socket communication
+# - threading: concurrent client handling
+# - time: timing and connection management
+# - json: data serialization (if applicable)
+#
+# Python >= 3.10 recommended.
